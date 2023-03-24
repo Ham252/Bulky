@@ -1,0 +1,469 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\BulkyBookWeb.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BulkyBookWeb.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\css\\BootswatchTheme.css",
+      "PackagePath": "staticwebassets\\css\\BootswatchTheme.css"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\images\\products\\0e7f1df2-6697-4848-b188-280b38996d26.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\0e7f1df2-6697-4848-b188-280b38996d26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\images\\products\\18b70625-3a83-4b12-b64b-e31e5cff52e5.png",
+      "PackagePath": "staticwebassets\\images\\products\\18b70625-3a83-4b12-b64b-e31e5cff52e5.png"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\images\\products\\1e32478e-035d-4b0f-abdf-4c419ff590e1.png",
+      "PackagePath": "staticwebassets\\images\\products\\1e32478e-035d-4b0f-abdf-4c419ff590e1.png"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\images\\products\\b5302a90-bbf8-4c42-adac-be49ad67681b.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\b5302a90-bbf8-4c42-adac-be49ad67681b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\images\\products\\c165f2f2-a6dd-46ce-8ab5-4eaa4806ad16.png",
+      "PackagePath": "staticwebassets\\images\\products\\c165f2f2-a6dd-46ce-8ab5-4eaa4806ad16.png"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\images\\products\\c89223cc-9894-467b-82c8-6434a483a387.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\c89223cc-9894-467b-82c8-6434a483a387.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\js\\company.js",
+      "PackagePath": "staticwebassets\\js\\company.js"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\js\\order.js",
+      "PackagePath": "staticwebassets\\js\\order.js"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\js\\product.js",
+      "PackagePath": "staticwebassets\\js\\product.js"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\lib\\datatables\\css\\dataTables.bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\datatables\\css\\dataTables.bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\lib\\datatables\\css\\dataTables.bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\datatables\\css\\dataTables.bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\lib\\datatables\\css\\dataTables.bootstrap4.css",
+      "PackagePath": "staticwebassets\\lib\\datatables\\css\\dataTables.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\lib\\datatables\\css\\dataTables.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\lib\\datatables\\css\\dataTables.bootstrap4.min.css"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\lib\\datatables\\css\\dataTables.foundation.css",
+      "PackagePath": "staticwebassets\\lib\\datatables\\css\\dataTables.foundation.css"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\lib\\datatables\\css\\dataTables.foundation.min.css",
+      "PackagePath": "staticwebassets\\lib\\datatables\\css\\dataTables.foundation.min.css"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\lib\\datatables\\css\\dataTables.jqueryui.css",
+      "PackagePath": "staticwebassets\\lib\\datatables\\css\\dataTables.jqueryui.css"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\lib\\datatables\\css\\dataTables.jqueryui.min.css",
+      "PackagePath": "staticwebassets\\lib\\datatables\\css\\dataTables.jqueryui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\lib\\datatables\\css\\dataTables.material.css",
+      "PackagePath": "staticwebassets\\lib\\datatables\\css\\dataTables.material.css"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\lib\\datatables\\css\\dataTables.material.min.css",
+      "PackagePath": "staticwebassets\\lib\\datatables\\css\\dataTables.material.min.css"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\lib\\datatables\\css\\dataTables.semanticui.css",
+      "PackagePath": "staticwebassets\\lib\\datatables\\css\\dataTables.semanticui.css"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\lib\\datatables\\css\\dataTables.semanticui.min.css",
+      "PackagePath": "staticwebassets\\lib\\datatables\\css\\dataTables.semanticui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\lib\\datatables\\css\\dataTables.uikit.css",
+      "PackagePath": "staticwebassets\\lib\\datatables\\css\\dataTables.uikit.css"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\lib\\datatables\\css\\dataTables.uikit.min.css",
+      "PackagePath": "staticwebassets\\lib\\datatables\\css\\dataTables.uikit.min.css"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\lib\\datatables\\css\\jquery.dataTables.css",
+      "PackagePath": "staticwebassets\\lib\\datatables\\css\\jquery.dataTables.css"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\lib\\datatables\\css\\jquery.dataTables.min.css",
+      "PackagePath": "staticwebassets\\lib\\datatables\\css\\jquery.dataTables.min.css"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\lib\\datatables\\css\\jquery.dataTables_themeroller.css",
+      "PackagePath": "staticwebassets\\lib\\datatables\\css\\jquery.dataTables_themeroller.css"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\lib\\datatables\\css\\jquery.dataTables_themeroller.min.css",
+      "PackagePath": "staticwebassets\\lib\\datatables\\css\\jquery.dataTables_themeroller.min.css"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\lib\\datatables\\images\\sort_asc.png",
+      "PackagePath": "staticwebassets\\lib\\datatables\\images\\sort_asc.png"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\lib\\datatables\\images\\sort_asc_disabled.png",
+      "PackagePath": "staticwebassets\\lib\\datatables\\images\\sort_asc_disabled.png"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\lib\\datatables\\images\\sort_both.png",
+      "PackagePath": "staticwebassets\\lib\\datatables\\images\\sort_both.png"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\lib\\datatables\\images\\sort_desc.png",
+      "PackagePath": "staticwebassets\\lib\\datatables\\images\\sort_desc.png"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\lib\\datatables\\images\\sort_desc_disabled.png",
+      "PackagePath": "staticwebassets\\lib\\datatables\\images\\sort_desc_disabled.png"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\lib\\datatables\\js\\dataTables.bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\datatables\\js\\dataTables.bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\lib\\datatables\\js\\dataTables.bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatables\\js\\dataTables.bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\lib\\datatables\\js\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\lib\\datatables\\js\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\lib\\datatables\\js\\dataTables.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatables\\js\\dataTables.bootstrap4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\lib\\datatables\\js\\dataTables.dataTables.js",
+      "PackagePath": "staticwebassets\\lib\\datatables\\js\\dataTables.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\lib\\datatables\\js\\dataTables.dataTables.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatables\\js\\dataTables.dataTables.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\lib\\datatables\\js\\dataTables.foundation.js",
+      "PackagePath": "staticwebassets\\lib\\datatables\\js\\dataTables.foundation.js"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\lib\\datatables\\js\\dataTables.foundation.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatables\\js\\dataTables.foundation.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\lib\\datatables\\js\\dataTables.jqueryui.js",
+      "PackagePath": "staticwebassets\\lib\\datatables\\js\\dataTables.jqueryui.js"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\lib\\datatables\\js\\dataTables.jqueryui.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatables\\js\\dataTables.jqueryui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\lib\\datatables\\js\\dataTables.material.js",
+      "PackagePath": "staticwebassets\\lib\\datatables\\js\\dataTables.material.js"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\lib\\datatables\\js\\dataTables.material.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatables\\js\\dataTables.material.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\lib\\datatables\\js\\dataTables.semanticui.js",
+      "PackagePath": "staticwebassets\\lib\\datatables\\js\\dataTables.semanticui.js"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\lib\\datatables\\js\\dataTables.semanticui.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatables\\js\\dataTables.semanticui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\lib\\datatables\\js\\dataTables.uikit.js",
+      "PackagePath": "staticwebassets\\lib\\datatables\\js\\dataTables.uikit.js"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\lib\\datatables\\js\\dataTables.uikit.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatables\\js\\dataTables.uikit.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\lib\\datatables\\js\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\lib\\datatables\\js\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\lib\\datatables\\js\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatables\\js\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tempk\\source\\repos\\Bulky\\BulkyBook\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.BulkyBookWeb.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.BulkyBookWeb.props",
+      "PackagePath": "build\\BulkyBookWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.BulkyBookWeb.props",
+      "PackagePath": "buildMultiTargeting\\BulkyBookWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.BulkyBookWeb.props",
+      "PackagePath": "buildTransitive\\BulkyBookWeb.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

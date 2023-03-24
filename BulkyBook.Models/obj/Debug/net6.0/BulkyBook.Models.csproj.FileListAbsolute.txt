@@ -1,0 +1,14 @@
+C:\Users\tempk\source\repos\BookEx\BulkyBook.Models\bin\Debug\net6.0\BulkyBook.Models.deps.json
+C:\Users\tempk\source\repos\BookEx\BulkyBook.Models\bin\Debug\net6.0\BulkyBook.Models.dll
+C:\Users\tempk\source\repos\BookEx\BulkyBook.Models\bin\Debug\net6.0\BulkyBook.Models.pdb
+C:\Users\tempk\source\repos\BookEx\BulkyBook.Models\obj\Debug\net6.0\BulkyBook.Models.csproj.AssemblyReference.cache
+C:\Users\tempk\source\repos\BookEx\BulkyBook.Models\obj\Debug\net6.0\BulkyBook.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tempk\source\repos\BookEx\BulkyBook.Models\obj\Debug\net6.0\BulkyBook.Models.AssemblyInfoInputs.cache
+C:\Users\tempk\source\repos\BookEx\BulkyBook.Models\obj\Debug\net6.0\BulkyBook.Models.AssemblyInfo.cs
+C:\Users\tempk\source\repos\BookEx\BulkyBook.Models\obj\Debug\net6.0\BulkyBook.Models.csproj.CoreCompileInputs.cache
+C:\Users\tempk\source\repos\BookEx\BulkyBook.Models\obj\Debug\net6.0\BulkyBook.Models.dll
+C:\Users\tempk\source\repos\BookEx\BulkyBook.Models\obj\Debug\net6.0\refint\BulkyBook.Models.dll
+C:\Users\tempk\source\repos\BookEx\BulkyBook.Models\obj\Debug\net6.0\BulkyBook.Models.pdb
+C:\Users\tempk\source\repos\BookEx\BulkyBook.Models\obj\Debug\net6.0\ref\BulkyBook.Models.dll
+C:\Users\tempk\source\repos\BookEx\BulkyBook.Models\bin\Debug\net6.0\BulkyBook.Models.runtimeconfig.json
+C:\Users\tempk\source\repos\BookEx\BulkyBook.Models\obj\Debug\net6.0\BulkyBook.Models.genruntimeconfig.cache

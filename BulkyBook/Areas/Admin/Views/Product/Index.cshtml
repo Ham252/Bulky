@@ -1,0 +1,114 @@
+﻿@model IEnumerable<Product>
+
+
+    <link rel="stylesheet" href="//cdn.datatables.net/1.12.1/css/jquery.dataTables.min.css" />
+    <script> src = "//cdn.datatables.net/1.12.1/js/jquery.dataTables.min.js"</script>
+@*<link href="~/lib/datatables/css/datatables.bootstrap4.css" rel="stylesheet" />
+<link href="~/lib/datatables/css/datatables.bootstrap4.min.css" rel="stylesheet" />
+*@
+
+
+<div class="container p-3">
+    <div class="row" pt-4>
+        <div class="col-6">
+            <h2 class="text-primary">
+                Product List
+            </h2>
+        </div>
+        <div class="col-6 text-end">
+            <a asp-controller="Product" asp-action="Upsert" class="btn btn-primary">
+                <i class="bi bi-plus-circle"></i> 
+                &nbsp; 
+                Create New Product
+            </a>
+        </div>
+    </div>
+    <br /> <br />
+
+    <table id="tblData" class="table table-light table-bordered table-striped" style="width:100%">
+        <thead>
+            <tr>
+                <th>Title</th>
+                <th>ISBN</th>
+                <th>Price</th>
+                <th>Author</th>
+                <th>Category</th>
+                <th></th>
+            </tr>
+        </thead>
+    </table>
+
+    <!-- Write your comments here 
+ @*
+     <table class="table table-bordered table-striped" style="width:100%"> 
+
+    <thead>
+        <tr>
+            <th>
+                Title
+            </th>
+            <th>
+                ISBN
+            </th>
+            <th>
+                Price
+            </th> 
+            <th>
+                Author
+            </th>
+             <th>
+                Category Id
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var obj in Model)
+        {
+            <tr>
+                <td width="20%">
+                    @obj.Title
+                </td>
+                <td width="20%">
+                    @obj.ISBN
+                </td>
+                <td width="20%">
+                    @obj.Price
+                </td>
+                <td width="20%">
+                    @obj.Author
+                </td>
+                <td width="20%">
+                    @obj.CategoryId
+                </td>
+                <td>
+                    <div class=" w-75 btn-group" role="group">
+                        <a asp-controller="Product" asp-action="Upsert" asp-route-id="@obj.Id">
+                            <i class="bi bi-pencil-square"></i>
+                            Edit
+                        </a>
+
+                        <a asp-controller="Product" asp-action="Delete" asp-route-id="@obj.Id" style="padding-left= 10px">
+                            <i class="bi bi-trash-fill"></i>
+                            Delete
+                        </a>
+                    </div>
+                </td>
+            </tr>
+        }
+    </tbody>
+  </table>
+ *@
+    -->
+
+</div>
+
+@section Scripts
+{
+    <script src="~/js/product.js"></script>
+    <link rel="stylesheet" href="//cdn.datatables.net/1.12.1/css/jquery.dataTables.min.css" />
+    <script src="~/lib/datatables/js/datatables.bootstrap4.js"></script>
+	<script src="~/lib/datatables/js/datatables.bootstrap4.min.js"></script>
+	<script src="~/lib/datatables/js/jquery.datatables.js"></script>
+    <script src="~/lib/datatables/js/jquery.datatables.min.js"></script>
+
+}
